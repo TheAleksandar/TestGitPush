@@ -5,7 +5,15 @@ int main()
 {
     
     cout<<"Git test\n";
-    
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
+    cout<<"Git test\n";
     system("pause");
     return 0;
     
